@@ -84,6 +84,7 @@ int main() {
 | Problem | Difficulty | Category | Status |
 |---------|------------|----------|--------|
 | [GCD of Two Numbers](gcd.cpp) | Easy | Mathematical | ✅ |
+| [Armstrong or not](armstrong.cpp) | Easy | Mathematical | ✅ |
 | | | | |
 
 ---
