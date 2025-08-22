@@ -85,6 +85,8 @@ int main() {
 |---------|------------|----------|--------|
 | [GCD of Two Numbers](gcd.cpp) | Easy | Mathematical | ✅ |
 | [Armstrong or not](armstrong.cpp) | Easy | Mathematical | ✅ |
+| [Return all divisors](divisors.cpp) | Easy | Mathematical | ✅ |
+| [Prime or not](prime.cpp) | Easy | Mathematical | ✅ |
 | | | | |
 
 ---
