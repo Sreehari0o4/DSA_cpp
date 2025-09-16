@@ -37,6 +37,17 @@ int main() {
     int k;
     cout << "Enter the value of k: ";
     cin >> k;
+    if (k>n){
+        k = k % n;
+    }
+    if (k == 0){
+        cout << "Array after reversing in groups of k: ";
+        for (int i = 0; i < n; i++) {
+            cout << arr[i] << " ";
+        }
+        cout << endl;
+        return 0;
+    }
     reverse(arr, 0, n - 1);
     reverse(arr, 0, k - 1);
     reverse(arr, k, n - 1);
